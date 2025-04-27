@@ -6,7 +6,7 @@
 
 💻 Specializing in Digital Verification (SystemVerilog, UVM) and ASIC/SoC Design Flows.
 
-🚀 Projects:
+🚀 Digital Design/Verification Projects:
 - CAN Controller UVM Verification
 - Ethernet Switch testbench Verification
 - UART TX Design on FPGA
