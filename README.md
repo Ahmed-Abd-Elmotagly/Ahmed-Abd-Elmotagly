@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ahmed Abd-Elmotagly
 
-<!--
-**Ahmed-Abd-Elmotagly/Ahmed-Abd-Elmotagly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 MSc Student in Electronics & Communication Engineering | Seeking Junior ASIC Verification Engineer role | Military Service finished by May 2025
+📚 BSc in Electronics & Communication Engineering, Ain-Shams university 2018-2023
 
-Here are some ideas to get you started:
+💻 Specializing in Digital Verification (SystemVerilog, UVM) and ASIC/SoC Design Flows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- CAN Controller UVM Verification
+- SPI-Flash RTL-to-GDSII Flow
+- ASIC Vending Machine Design
+
+📚 Constantly Learning | Focused on Innovation in ASIC Verification
