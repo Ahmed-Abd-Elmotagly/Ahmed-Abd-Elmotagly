@@ -8,7 +8,10 @@
 
 🚀 Projects:
 - CAN Controller UVM Verification
+- Ethernet Switch testbench Verification
+- UART TX Design on FPGA
+- Advanced Encryption Standard (AES)
 - SPI-Flash RTL-to-GDSII Flow
-- ASIC Vending Machine Design
+- Vending Machine ASIC Design
 
 📚 Constantly Learning | Focused on Innovation in ASIC Verification
