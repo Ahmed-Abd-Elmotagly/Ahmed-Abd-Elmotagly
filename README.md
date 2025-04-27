@@ -10,7 +10,7 @@
 - CAN Controller UVM Verification
 - Ethernet Switch testbench Verification
 - UART TX Design on FPGA
-- Advanced Encryption Standard (AES)
+- Design of Advanced Encryption Standard (AES)
 - SPI-Flash RTL-to-GDSII Flow
 - Vending Machine ASIC Design
 
